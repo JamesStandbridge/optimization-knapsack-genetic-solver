@@ -1,0 +1,12 @@
+{
+	"items": [
+		{"name": "Tente", "value": 7,"weight": 13},
+		{"name": "Hache", "value": 4,"weight": 12},
+		{"name": "Couteau", "value": 3,"weight": 8},
+		{"name": "Réchaud", "value": 10,"weight": 20},
+		{"name": "Douche portable", "value": 2,"weight": 5},
+		{"name": "Briquet", "value": 1,"weight": 3},
+		{"name": "Chaussures", "value": 6,"weight": 6}
+	],
+	"maxWeight": 50
+}
