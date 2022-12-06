@@ -1,0 +1,13 @@
+{
+	"name": "optimization-knapsack-genetic-solver",
+	"version": 1.0.0,
+	"description": "This project proposes the implementation of a genetic algorithm to solve the backpack problem.",
+	"main": "solveknapsack.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"resolve": "node ./solveknapsack.js"
+	},
+	"author": "james.standbridge.git@gmail.com",
+	"licence": "ISC",
+	"type": "module
+}
